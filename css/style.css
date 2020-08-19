@@ -1,0 +1,65 @@
+.la_gran_fila{
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.imagenPerfil{
+    width: 160px;
+    height: 160px;
+    max-width: 160px;
+    max-height: 160px;
+    border-radius: 80px;
+}
+
+.grupoInformacion{
+    text-decoration: underline;
+}
+
+.contacto_y_habilidades{
+    background: gray;
+    margin: 0;
+    height: 100%;
+    color: #fff;
+}
+
+.datos_del_usuario > span{
+    font-size: 20px;
+}
+
+.datos_del_usuario > svg{
+    font-size: 20px;
+}
+
+/* GitHub */
+a{
+    color: #fff;
+}
+
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: aliceblue;
+    text-decoration: underline;
+}
+/* GitHub */
+
+
+.miNombre{
+    text-decoration: underline;
+    font-size: 35px;
+}
+.subtitulo{
+    text-decoration: underline;
+}
+
+
+.experiencia_Laboral{
+    color: blue;
+}
+.centro_de_Estudio_o_Academia{
+    color: blue;
+}
+.nombreDelCurso{
+    color: blue;
+}
